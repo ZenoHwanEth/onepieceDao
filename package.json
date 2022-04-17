@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@thirdweb-dev/sdk": "^2.0.33",
+    "dotenv": "^16.0.0"
+  },
+  "name": "onepiecedao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZenoHwanEth/onepieceDao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZenoHwanEth/onepieceDao/issues"
+  },
+  "homepage": "https://github.com/ZenoHwanEth/onepieceDao#readme",
+  "description": ""
+}
